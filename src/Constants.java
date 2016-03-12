@@ -12,7 +12,7 @@ import javacardx.crypto.Cipher;
 /**
  * Constants <br>
  * All constants values used in DemoApplet are here. 
- *  @author Mostak, Rakeb
+ *  @author Rakeb
  */
 public class Constants {
 	public static final byte TRUE									= (byte)0x01;
